@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/photography-portfolio-VedantLens/', // Use your repo name here
+  base: '/photography-portfolio-VedantLens/', 
 });
